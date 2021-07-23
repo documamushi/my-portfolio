@@ -1,0 +1,68 @@
+body {
+  background-image: url("32F47285-05BB-4BDD-8E10-7C9D73C0CC35_1_201_a.jpeg");
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: rgb(245, 241, 241);
+  margin-top: 200px;
+}
+
+.button0 {
+  width: 400px;
+  height: 100px;
+  background: skyblue;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin: 100px auto;
+  border-radius: 30px;
+  padding-top: 45px;
+}
+
+.question {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 50px;
+  color: white;
+}
+
+.answer {
+  background: #fff;
+  border: 1px solid rgb(134, 129, 129);
+  width: 400px;
+  text-align: center;
+  margin: 5px auto;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cant {
+  background: rgb(214, 211, 211);
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.can {
+  background: rgb(156, 157, 241);
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.correct {
+  background: rgb(63, 63, 241);
+  color: white;
+}
+
+.wrong {
+  background: rgb(240, 76, 76);
+  color: white;
+}
